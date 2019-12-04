@@ -1,0 +1,93 @@
+html,
+body {
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #1b2732;
+}
+
+html {
+  font-size: 18px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.h1, .h1-quiet {
+  font-size: 36px;
+  font-weight: bold;
+}
+.h1-quiet {
+  font-weight: normal;
+}
+
+.h2, .h2-quiet {
+  font-size: 28px;
+  font-weight: bold;
+}
+.h2-quiet {
+  font-weight: normal;
+}
+
+.h3, .h3-quiet {
+  font-size: 22px;
+  font-weight: bold;
+}
+.h3-quiet {
+  font-weight: normal;
+}
+
+.h4, .h4-quiet {
+  font-size: 18px;
+  font-weight: bold;
+}
+.h4-quiet {
+  font-weight: normal;
+}
+
+.h5, .h5-quiet {
+  font-size: 16px;
+  font-weight: bold;
+}
+.h5-quiet {
+  font-weight: normal;
+}
+
+.h6, .h6-quiet {
+  font-size: 14px;
+  font-weight: bold;
+}
+.h6-quiet {
+  font-weight: normal;
+}
+
+.subheading, .subheading-quiet {
+  font-size: 11px;
+  font-weight: bold;
+}
+.subheading-quiet {
+  font-weight: normal;
+}
+
+.detail {
+  font-size: 11px;
+  font-weight: normal;
+}
+
+.body {
+  font-size: 16px;
+}
+
+svg text {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/*# sourceMappingURL=/reset.19c4cd70.css.map */
