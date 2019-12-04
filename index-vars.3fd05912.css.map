@@ -1,0 +1,1 @@
+{"version":3,"sources":["index-vars.css"],"names":[],"mappings":"AAAA,UACE,qGAAuG,CACvG,yCACF","file":"index-vars.3fd05912.css","sourceRoot":"..","sourcesContent":[".spectrum {\n  background-color: var(--spectrum-alias-background-color-default, var(--spectrum-global-color-gray-100));\n  -webkit-tap-highlight-color: rgba(0,0,0,0);\n}\n"]}
